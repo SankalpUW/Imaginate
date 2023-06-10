@@ -17,10 +17,13 @@ The front end is built using React and Tailwind CSS, while the Backend uses Node
   1. Clone the repository to your local machine:   
     `git clone https://github.com/SankalpUW/SnapAI`
   2. Install dependencies for both the frontend and backend:  
-    `cd client  
+    ```
+    cd client  
     npm install  
     cd ../server  
-    npm install `
+    npm install 
+    ```
+    
   3. Create a `.env` file in the backend directory and add the following:  
     `PORT=5000  
     MONGODB_URI=<your-mongodb-cluster-name>  
