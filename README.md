@@ -1,17 +1,17 @@
 # SnapAI
 A full stack Midjourney and DALL-E AI Image generation application using the MERN stack, with the help of Tailwind CSS, Node.js and Cloudinary for storing images.
 The front end is built using React and Tailwind CSS, while the Backend uses Node.js, Express.js, MongoDB and Cloudinary.
-
-# Installation
 ![image](https://github.com/SankalpUW/SnapAI/assets/113000067/95e64fe1-bb70-4c99-afd4-4a80ca1b9ed4)
 
+# Installation
+
 ## Prerequisites
-*MongoDB
-*Node.js
-*TailwindCSS
-*NPM
-*Cloudinary account and API keys
-*Open AI API key
+* MongoDB
+* Node.js
+* TailwindCSS
+* NPM
+* Cloudinary account and API keys
+* Open AI API key
 
 ## Steps
   1. Clone the repository to your local machine:
