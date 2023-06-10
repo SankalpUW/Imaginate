@@ -14,31 +14,45 @@ The front end is built using React and Tailwind CSS, while the Backend uses Node
 * Open AI API key
 
 ## Steps
-  1. Clone the repository to your local machine:   
-    `git clone https://github.com/SankalpUW/SnapAI`
-  2. Install dependencies for both the frontend and backend:  
-    ```
+  1. Clone the repository to your local machine:
+```
+git clone https://github.com/RaghavVerma24/Imaginate
+```
+
+  2. Install dependencies for both the frontend and backend:
+```
 cd client
 npm install
 cd ../server
 npm install
 ```
     
-  3. Create a `.env` file in the backend directory and add the following:  
-    `PORT=5000  
-    MONGODB_URI=<your-mongodb-cluster-name>  
-    CLOUDINARY_CLOUD_NAME=<your-cloudinary-cloud-name>  
-    CLOUDINARY_API_KEY=<your-cloudinary-api-key>  
-    CLOUDINARY_API_SECRET=<your-cloudinary-api-secret>  
-    OPENAI_API_KEY=<your-openai-api-key>`  
-  4. Start the backend server:  
-    `cd server
-     npm start`
-  5. Start the frontend:  
-    `cd client
-    npm run dev`
-  6. Change Server endpoint url:  
-    `https://snapai-s859.onrender.com/api/v1/post" // Make all instances: "https://<projectname>.onrender.com/api/v1/post"`
+  3. Create a `.env` file in the backend directory and add the following:
+```
+PORT=5000
+MONGODB_URI=<your-mongodb-cluster-name>
+CLOUDINARY_CLOUD_NAME=<your-cloudinary-cloud-name>
+CLOUDINARY_API_KEY=<your-cloudinary-api-key>
+CLOUDINARY_API_SECRET=<your-cloudinary-api-secret>
+OPENAI_API_KEY=<your-openai-api-key>
+```
+
+  4. Start the backend server:
+  ```
+  cd server
+  npm start
+  ```
+
+  5. Start the frontend:
+  ```
+  cd client
+  npm run dev
+  ```
+
+  6. Change Server endpoint url:
+```
+https://imaginate.onrender.com/api/v1/post" // Make all instances: "https://<projectname>.onrender.com/api/v1/post"
+```
 # Usage
 ## Creating an Image
 1. Navigate to the creationg page.
