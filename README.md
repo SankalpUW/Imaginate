@@ -1,6 +1,7 @@
 # SnapAI
 A full stack Midjourney and DALL-E AI Image generation application using the MERN stack, with the help of Tailwind CSS, Node.js and Cloudinary for storing images.
-The front end is built using React and Tailwind CSS, while the Backend uses Node.js, Express.js, MongoDB and Cloudinary.
+The front end is built using React and Tailwind CSS, while the Backend uses Node.js, Express.js, MongoDB and Cloudinary.  
+
 ![image](https://github.com/SankalpUW/SnapAI/assets/113000067/95e64fe1-bb70-4c99-afd4-4a80ca1b9ed4)
 
 # Installation
@@ -16,7 +17,7 @@ The front end is built using React and Tailwind CSS, while the Backend uses Node
 ## Steps
   1. Clone the repository to your local machine:
 ```
-git clone https://github.com/RaghavVerma24/Imaginate
+git clone https://github.com/SankalpUW/SnapAI
 ```
 
   2. Install dependencies for both the frontend and backend:
@@ -51,7 +52,7 @@ OPENAI_API_KEY=<your-openai-api-key>
 
   6. Change Server endpoint url:
 ```
-https://imaginate.onrender.com/api/v1/post" // Make all instances: "https://<projectname>.onrender.com/api/v1/post"
+https://snapai-s859.onrender.com/api/v1/post" // Make all instances: "https://<projectname>.onrender.com/api/v1/post"
 ```
 # Usage
 ## Creating an Image
