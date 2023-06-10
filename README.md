@@ -18,11 +18,11 @@ The front end is built using React and Tailwind CSS, while the Backend uses Node
     `git clone https://github.com/SankalpUW/SnapAI`
   2. Install dependencies for both the frontend and backend:  
     ```
-    cd client  
-    npm install  
-    cd ../server  
-    npm install 
-    ```
+cd client
+npm install
+cd ../server
+npm install
+```
     
   3. Create a `.env` file in the backend directory and add the following:  
     `PORT=5000  
