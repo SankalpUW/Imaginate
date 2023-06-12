@@ -17,7 +17,7 @@ The front end is built using React and Tailwind CSS, while the Backend uses Node
 ## Steps
   1. Clone the repository to your local machine:
 ```
-git clone https://github.com/SankalpUW/SnapAI
+git clone https://github.com/SankalpUW/Imaginate
 ```
 
   2. Install dependencies for both the frontend and backend:
