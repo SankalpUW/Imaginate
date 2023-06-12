@@ -1,4 +1,4 @@
-# SnapAI
+# Imaginate
 A full stack Midjourney and DALL-E AI Image generation application using the MERN stack, with the help of Tailwind CSS, Node.js and Cloudinary for storing images.
 The front end is built using React and Tailwind CSS, while the Backend uses Node.js, Express.js, MongoDB and Cloudinary.  
 
